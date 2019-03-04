@@ -1,0 +1,11 @@
+{
+  "name": "quarto_possibilities",
+  "version": "1.0.0",
+  "description": "node js application used to check possibilities in a custom quarto game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Kovacs",
+  "license": "CC-BY-NC-SA-3.0"
+}

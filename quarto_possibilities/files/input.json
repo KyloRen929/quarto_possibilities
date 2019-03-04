@@ -1,0 +1,56 @@
+[
+    {
+        "name": "0",
+        "properties": [
+            false, false, false, true
+        ]
+    },
+    {
+        "name": "1",
+        "properties": [
+            false, true, true, false
+        ]
+    },
+    {
+        "name": "2",
+        "properties": [
+            true, true, false, true
+        ]
+    },
+    {
+        "name": "3",
+        "properties": [
+            false, true, false, true
+        ]
+    },
+    {
+        "name": "4",
+        "properties": [
+            false, true, false, true
+        ]
+    },
+    {
+        "name": "5",
+        "properties": [
+            true, false, false, true
+        ]
+    },
+    {
+        "name": "6",
+        "properties": [
+            true, false, false, true
+        ]
+    },
+    {
+        "name": "7",
+        "properties": [
+            false, true, true, false
+        ]
+    },
+    {
+        "name": "8",
+        "properties": [
+            false, false, false, false
+        ]
+    }
+]

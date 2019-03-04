@@ -1,0 +1,6 @@
+    {
+        "name": "9",
+        "properties": [
+            true, true, true, false
+        ]
+    }
